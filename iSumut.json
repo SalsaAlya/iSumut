@@ -1,0 +1,232 @@
+{
+  "Wisata" : {
+    "data" : [ {
+      "deskripsi" : "Pulau Samosir merupakan salah satu pulau yang paling populer di Sumatera Utara. Lokasinya yang berada tepat di tengah Danau Toba menjadi daya tarik tersendiri bagi wisatawan. Ada banyak aktivitas seru yang bisa kamu lakukan di pulau vulkanik ini, mulai dari bertualang di Goa Marlakkop, menyaksikan pertunjukan tari Sigale-gale, berkeliling Museum Huta Bolon Simanindo, hingga menikmati keunikan Batu Parsidangan.Terdapat tiga jalur perairan Danau Toba yang bisa kamu pilih untuk menuju Pulau Samosir, yaitu melalui Pelabuhan Ajibata ke Pelabuhan Tomok, Tigaras menuju Simanindo, dan melalui Muara menuju Nainggolan. Khusus rute Muara– Nainggolan, hanya bisa kamu lalui pada hariSenin, Kamis, dan Sabtu. Umumnya, seluruh rute menggunakan akomodasi feri dengan kisaran harga tiket Rp90.000–Rp10.000",
+      "gambar" : "https://drive.google.com/file/d/1LSfHSjJv1ZOmcMQcN9AeDx9nJTfu_xTr/view?usp=sharing",
+      "id" : "1",
+      "jenis" : "Wisata Alam",
+      "nama" : "Pulau Samosir"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "gambar" : "https://drive.google.com/file/d/1ePaBI_C5315X-xB30WCvsIBkSV9loxMj/view?usp=sharing",
+      "id" : "2",
+      "jenis" : "Wisata Alam",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Berada di dekat pemukiman warga Desa Tongging, Kecamatan Merek, Karo, Air Terjun Sipiso-piso menawarkan pesona alam yang akan membuat kamu berdecak kagum. Berada di ketinggian 800 mdpl, Air Terjun Sipiso-piso menjadi salah satu air terjun tertinggi di Indonesia dengan tinggi pancuran 120 meter.Lokasi air terjun ini cukup terjangkau, kamu hanya perlu menempuh 35 km perjalanan dari Kota Berastagi atau sekitar 45 menit berkendara dari pusat Kota Medan. Jalur menuju kawasan wisata ini pun sudah tertata rapi, sehingga segala jenis kendaraan bermotor bisa melaluinya dengan aman. Sesampainya di lokasi, kamu perlu menyiapkan uang Rp5.000 sebagai tiket masuk wisata Air Terjun Sipiso-piso.",
+      "id" : "3",
+      "jenis" : "Wisata Alam",
+      "nama" : "Air Terjun Sipiso-piso"
+    }, {
+      "deskripsi" : "Jika di Pulau Jawa kamu mengenal Kawah Putih Ciwidey, maka di Sumatera Utara terdapat wisata serupa bernama Salju Panas Tinggi Raja. Kamu tentu bertanya-tanya mengenai asal-usul penamaan lokasi tersebut, bukan? Kata “salju” dipilih karena di tempat ini terdapat sebuah kawah yang didominasi warna putih seperti salju. Sedangkan kata “panas”, digunakan karena air berwarna biru kehijauan kawah bersuhu panas.Untuk menuju kawasan wisata ini, kamu perlu berkendara sekitar 3 jam dari pusat Kota Medan. Dari Medan, kamu akan melewati kawasan Lubuk Pakam, Dolok Masihul, Galang, hingga Bangun Purba. Sesampainya di lokasi Salju Panas Tinggi Raja, kamu tidak akan dikenakan biaya apa pun. Namun, kamu perlu membayar Rp5.000 jika membawa kendaraan pribadi.",
+      "id" : "4",
+      "jenis" : "Wisata Alam",
+      "nama" : "Salju Panas Tinggi Raja"
+    }, {
+      "deskripsi" : "Sebagai danau terbesar di Indonesia dan Asia Tenggara, Danau Toba menjadi salah satu objek wisata yang tak boleh kamu lewatkan di Sumatera Utara. Ada banyak hal yang bisa kamu lakukan di sini, mulai dari melihat situs sejarah, mengunjungi rumah adat Batak, hingga mengelilingi Desa Tuktuk Siadong-adong. Untuk menuju Danau Toba, kamu perlu menempuh 5 jam berkendara dari pusat Kota Medan. Tersedia pula berbagai moda transportasi yang bisa kamu pilih, seperti kendaraan pribadi atau sewa, bus, maupunkereta api. Tak perlu khawatir kekurangan waktu untuk menikmati seluruh pesona Danau Toba, karena kamu bisa bermalam di berbagai penginapan yang tersedia di sekitar danau.",
+      "id" : "5",
+      "jenis" : "Wisata Alam",
+      "nama" : "Danau Toba"
+    }, {
+      "deskripsi" : "Bagi pencinta olahraga air, Pantai Sorake dan Pantai Lagundri di Sumatera Utara adalah lokasi wisata yang perlu kamu kunjungi. Pasalnya, kedua pantai tersebut telah dinobatkan sebagai spot surfing terbaik di dunia. Tak jarang, kedua pantai ini digunakan sebagai lokasi kejuaraan surfing tingkat nasional maupun internasional, salah satunya adalah Nias Open.Kondisi gulungan ombak yang panjang membuat aksi surfing semakin menantang. Konon, posisi pantai yang menghadap langsung Samudera Hindia membuat kondisi ombak cukup tinggi hingga mencapai 7– 10 meter. Umumnya, para peselancar dari berbagai negara berkunjung sekitar bulan April hingga September. Jika tertarik untuk mencobanya, kamu bisa menuju Kabupaten Nias Selatan, tepatnya 12 km dari Teluk Dalam.",
+      "id" : "6",
+      "jenis" : "Wisata Alam",
+      "nama" : "Pantai Sorake dan Pantai Lagundri"
+    }, {
+      "deskripsi" : "Tempat wisata di Sumatera Utara lainnya adalah Cagar alam Sibolangit. Wisata alam ini masih berada satu kawasan dengan Taman Wisata Sibolangit. Sesuai fungsinya sebagai cagar alam, di sini kamu bisa menemukan beragam flora dan fauna langka. Mulai dari pohon angsana,sonokembang, meranti, durian hutan, hingga hewan langka seperti lutung adalah beberapa habitat yang dilindungi di Cagar Alam Sibolangit.Lokasinya yang berada di Jalan Letjend Jamin Ginting KM 38, Batu Layang, Sibolangit ini memiliki akses yang cukup mudah. Setidaknya, kamu perlu menempuh jarak 40 km atau sekitar 1 jam perjalanan dari Kota Medan. Jika tertarik mengunjunginya, kamu perlu meminta izin terlebih dahulu dengan pengelola setempat. Tak hanya itu, kamu juga harus menyiapkan kondisi fisik agar bisa mengelilingi cagar alam seluas 100 hektar ini.",
+      "id" : "7",
+      "jenis" : "Wisata Alam",
+      "nama" : " Cagar Alam Sibolangit"
+    }, {
+      "deskripsi" : "Danau Toba nyatanya bukan satu-satunya wisata danau di Sumatera Utara. Masih ada Danau Lau Kawar, salah satu danau di Kawasan Ekosistem Leuser (KEL) yang patut kamu kunjungi. Berada di ketinggian 2.451 mdpl, membuat udara di kawasan ini cukup sejuk. Tak hanya itu, lokasinya yang tepat berada di bawah kaki Gunung Sinabung membuat air Danau Lau Kawar amat jernih dan sejuk. Menariknya, kamu bisa mendirikan tenda di area yang telah disediakan oleh pihak pengelola. Namun, tersedia pula pendopo yang bisa kamu gunakan untuk beristirahat sejenak sembari menikmati kesejukan udara sekitar. Datanglah ke kawasan Karo, Berastagi untuk melihat pesona Danau Lau Kawar. Kamu hanya perlu menempuh 3 jam berkendara dari pusat Kota Medan.",
+      "id" : "8",
+      "jenis" : "Wisata Alam",
+      "nama" : "Danau Lau Kawar"
+    }, {
+      "deskripsi" : "Ingin melihat pesona Danau Toba dari sisi yang berbeda? Kamu bisa mengunjungi Sipinsur, Desa Paerung, Humbang Hasundutan. Terletak di kawasan dataran tinggi Humbang Hasundutan, Sipinsur memiliki ketinggian 1.213 mdpl. Di sini, kamu bisa melihat pesona Danau Toba dari ketinggian. Tak jarang, para fotografer memilih lokasi ini untuk mengabadikan lanskap danau terbesar di Asia Tenggara tersebut. Jika tertarik, cobalah datang di waktu senja. Di waktu tersebut, kamu bisa melihat pesona Danau Toba berlatar belakang langit oranye. Setelah puas menikmati pesona alamnya, kamu bisa turun ke rumah warga untuk mencicipi hidanganmie gomakkhas Sipinsur secara gratis.Mie gomaksendiri merupakan mi berbahan dasar telur dan tepung yang disajikan bersama kue beras dengan kuah yang kaya cita rasa rempah.",
+      "id" : "9",
+      "jenis" : "Wisata Alam",
+      "nama" : "Sipinsur"
+    }, {
+      "deskripsi" : "Masih ada tempat wisata menarik di Sumatera Utara lainnya, yaitu Kebun Raya Tongkoh. Objek wisata ini menjadi lokasi penangkaran berbagai tanaman hias dan buah. Mulai dari kebun markisa, jeruk khas Berastagi, hingga kebun stroberi bisa kamu temukan di sini. Tak sekadar berkeliling, kamu pun bisa memetik buah dan tanaman untuk dinikmati maupun dijadikan cendera mata. Di kebun seluas 25,97 hektar ini kamu juga bisa melihat pemandangan Gunung Sinabung yang amat cantik. Tertarik untuk mengunjunginya? Kamu bisa menuju Desa Tongkoh, Kecamatan Dolat Rakyat, Karo. Saat berkunjung, kamu harus gunakan pakaian hangat mengingat kondisi udara Kebun Raya Tongkoh yang cukup dingin.",
+      "id" : "10",
+      "jenis" : "Wisata Alam",
+      "nama" : "Kebun Raya Tongkoh"
+    }, {
+      "deskripsi" : "Jika dari Kota Parapat kamu hanya bisa menikmati Danau Toba dari tepi pantainya, maka di Muara Tapanuli Utara, keindahan danau tersebut terpampang jelas di depan mata. Muara sendiri merupakan sebuah kota kecil yang dikelilingi perbukitan. Untuk menuju kawasan ini, kamu bisa menuju Desa Hutanagadong, Tapanuli Utara. Selain menyaksikan pesona Danau Toba, kamu bisa melihat sisi lain Kota Muara dengan mengunjungi Desa Bakti Raja. Konon, desa ini merupakan tempat asal pahlawan nasional Indonesia, Raja Sisingamangaraja XII. Hal tersebut bisa kamu buktikan dari berbagai sisa objek kerajaan di masa lampau.",
+      "id" : "11",
+      "jenis" : "Wisata Alam",
+      "nama" : "Muara Tapanuli Utara"
+    }, {
+      "deskripsi" : "Pesona pantai Sumatera Utara tentu tak bisa kamu anggap sepele. Salah satu yang paling populer adalah Pantai Pandan di Desa Pandan, Tapanuli Tengah. Pantai ini terkenal dengan pesona pasir putih dan air laut yang begitu jernih. Di sini, kamu bebas bermain air maupun berenang karena kondisi ombak yang cukup tenang. Meski masih tergolong sepi akan pengunjung, pantai ini sudah dilengkapi dengan berbagai fasilitas seperti gazebo, kedai makanan, hingga penginapan. Jika sempat mengunjunginya, cobalah untuk datang pada sore hari. Di waktu tersebut, kamu bisa menyaksikan momensunsetyang terkenal amat cantik di Pantai Pandan.",
+      "id" : "12",
+      "jenis" : "Wisata Alam",
+      "nama" : "Pantai Pandan"
+    }, {
+      "deskripsi" : "Air terjun ini terletak di dalam Hutan Aibolangit. Butuh waktu sekitar 2 jam perjalanan menggunakan kendaraan darat dari Kota Medan. Setelah sampai di Hutan Sibolangit kalian masih harus menempuh perjalanan selama 3 jam atau lebih dengan berjalan kaki agar sampai di Air terjun tersebut. Perjalanan yang akan sangat melelahkan, namun juga menyenangkan. Setelah sampai di Air Terjun Sibolangit kalian akan disuguhkan oleh pemandangan yang indah dari air terjun yang mempunyai dua warna ini, yaitu biru untuk air dingin dan putih untuk air hangat.",
+      "id" : "13",
+      "jenis" : "Wisata Alam",
+      "nama" : "Air Terjun Telaga Dwi Warna Sibolangit"
+    }, {
+      "deskripsi" : "Masih termasuk ke dalam Taman Nasional Gunung Leuser, Tangkahan adalah salah satu tujuan eco-travel di Sumatera Utara yang memberikan macam-macam aktivitas dan kegiatan menarik bagi para pengunjung, mulai dari menaiki gajah, sampai mengarungi sungai. Untuk para pencinta alam dan juga air terjun. Selain itu, terdapat juga berbagai tempat yang menarik untuk dilihat, seperti trekking melewati hutan yang cukup lebat tetapi tidak terlalu dalam, atau menikmati kegiatan bersepeda dan juga menikmati ekosistem yang terjaga dan asli di taman nasional ini. Untuk penginapan dan tempat makan, para pengunjung tidak usah khawatir karena terdapat banyak penginapan, akomodasi dan juga transportasi yang berada di sekitar taman nasional ini.",
+      "id" : "14",
+      "jenis" : "Wisata Alam",
+      "nama" : "Tangkahan"
+    }, {
+      "deskripsi" : "Merupakan air terjun yang berlokasi di di Desa Aek Libung, nama air terjun Aek Sijornih berasal dari bahasa batak yang memiliki arti berupa air yang jernih. Terdiri dari dua buah air terjun berukuran kecil dan melewati tebing miring dengan kandungan kapur, air terjun ini memang kurang populer jika dibandingkan dengan air terjun lain dan juga obyek wisata lain yang berada di Sumatera Utara. Meskipun begitu, pemandangan dan tempat yang asri membuat banyak wisatawan merasa betah.",
+      "id" : "15",
+      "jenis" : "Wisata Alam",
+      "nama" : "Air Terjun Aek Sijornih"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "16",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "17",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "18",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "19",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "20",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "21",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "22",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "23",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "24",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "25",
+      "jenis" : "Wisata Buatan",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "26",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "27",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "28",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "29",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "30",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "31",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "32",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "33",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "34",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "35",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "36",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "37",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "38",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "39",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "40",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "41",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "42",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "43",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "44",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    }, {
+      "deskripsi" : "Secara administratif, Taman Nasional Gunung Leuser berada di dua provinsi berbeda, yaitu Aceh dan Sumatera Utara. Hal tersebut tak mengagetka , mengingat luas area taman wisata ini mencapai 1.094.692 hektar. Tempat wisata ini merupakan kawasan hutan yang menyimpan berbagai cagar alam, seperti Suaka Margasatwa Gunung Leuser, Suaka Margasatwa Kappi, Suaka Margasatwa Kluet, Taman Wisata Gurah, dan masih banyak lagi.Menariknya, taman nasional ini menjadi salah satu situs warisan dunia sesuai ketetapan UNESCO. Jika kamu tertarik untuk berkunjung, datanglah pada bulan Juni hingga Oktober. Pada bulan tersebut, curah hujan cukup rendah sehingga dapat memudahkan kamu saat menjelajahi taman nasional. Nantinya, kamu akan dikenakan biaya tiket sebesar Rp7.500 untuk wisatawan domestik dan Rp225.000 untuk wisatawan mancanegara.",
+      "id" : "45",
+      "jenis" : "Wisata Kuliner",
+      "nama" : "Taman Nasional Gunung Leuser"
+    } ]
+  }
+}
