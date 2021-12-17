@@ -2,20 +2,29 @@ package com.example.isumut_wisatasumaterautara;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
 public class DetailActivity extends AppCompatActivity {
+    private ImageView button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
 
-
+        button = (ImageView) findViewById(R.id.kehome);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openActivity();
+            }
+        });
 
         TextView nama = findViewById(R.id.nama);
         TextView jenis = findViewById(R.id.jenis);
@@ -35,5 +44,10 @@ public class DetailActivity extends AppCompatActivity {
         nama.setText(namaa);
         deskripsi.setText(deskripsii);
 
+    }
+
+    public void openActivity(){
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 }

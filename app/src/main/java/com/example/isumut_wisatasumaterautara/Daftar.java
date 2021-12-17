@@ -4,9 +4,14 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.graphics.Movie;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageView;
 import android.widget.Toast;
+
+
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
@@ -23,6 +28,7 @@ import java.util.List;
 
 public class Daftar extends AppCompatActivity {
 
+    private ImageView button;
     private RecyclerView recyclerView;
     private RequestQueue requestQueue;
     private List<Daftar_wisata> wisataList;
@@ -30,6 +36,18 @@ public class Daftar extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.daftar);
+
+
+        button = (ImageView) findViewById(R.id.kehome);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openActivity();
+            }
+        });
+
+
+
 
         recyclerView = findViewById(R.id.recyclerview);
         recyclerView.setHasFixedSize(true);
@@ -41,6 +59,11 @@ public class Daftar extends AppCompatActivity {
         fetchMovies();
 
 
+    }
+
+    public void openActivity(){
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 
     private void fetchMovies() {

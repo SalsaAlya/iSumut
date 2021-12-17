@@ -52,7 +52,8 @@
                 android:layout_width="296dp"
                 android:layout_height="160dp"
                 android:layout_gravity="center"
-                app:cardCornerRadius="20dp">
+                app:cardCornerRadius="20dp"
+                android:id="@+id/keWisataAlam">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -86,7 +87,8 @@
                 android:layout_height="160dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="20dp"
-                app:cardCornerRadius="20dp">
+                app:cardCornerRadius="20dp"
+                android:id="@+id/keWisataBuatan">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -120,7 +122,8 @@
                 android:layout_height="160dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="20dp"
-                app:cardCornerRadius="20dp">
+                app:cardCornerRadius="20dp"
+                android:id="@+id/keWisataKuliner">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -154,7 +157,8 @@
                 android:layout_height="160dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="20dp"
-                app:cardCornerRadius="20dp">
+                app:cardCornerRadius="20dp"
+                android:id="@+id/kePusatPerbelanjaan">
 
                 <RelativeLayout
                     android:layout_width="match_parent"

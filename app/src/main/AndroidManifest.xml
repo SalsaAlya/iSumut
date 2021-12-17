@@ -35,9 +35,9 @@
 
         <activity android:name=".DetailActivity"></activity>
         <activity android:name=".SplashScreen" />
-        <activity android:name=".IntroActivity"/>
+        <activity android:name=".Daftar"/>
         <activity android:name=".MainActivity" />
-        <activity android:name=".Daftar">
+        <activity android:name=".IntroActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
